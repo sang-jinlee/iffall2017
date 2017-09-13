@@ -1,0 +1,20 @@
+body {font-style:"Crimson Text", serif}
+p{font-size:22px;}
+span.header {font-size:24px;
+			 color: lightgray;
+			 font-style:italic;
+			 font-weight:700;}
+span.sub {font-size:14px;
+		  font-style:italic;
+		  color:lightgray;
+		  font-weight:400;}
+span.bold{font-weight:700;}
+span.italic{font-style:italic;}
+span.plusem{letter-spacing:.3em;}
+span.negem{letter-spacing:-.06em;}
+span.underline{text-decoration:underline;}
+span.through{text-decoration:line-through;}
+span.over{text-decoration:overline;}
+span.upper{text-transform:uppercase;}
+span.lower{text-transform:lowercase;}
+span.cap{text-transform:capitalize;}
