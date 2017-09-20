@@ -1,0 +1,58 @@
+
+header {
+	margin-bottom: 3rem
+}
+p {
+	line-height: 1.6;
+}
+
+a.see-all {
+	font-size:.8em;
+	text-transform:uppercase;
+}
+h1 {
+	font-size:2.5rem;
+	font-weight:lighter;
+}
+h2 {
+	font-size:1rem;
+	text-transform:uppercase;
+	font-weight:lighter;
+}
+img {
+	width:100%;
+}
+
+section.cast {
+	width:25%;
+}
+
+ul h1{
+	border-top:1px solid black;
+}
+
+li.selected {
+	font-weight:bold;
+	color:black;
+}
+
+ul div{
+	font-size:.8rem;
+}
+section.cast div {
+	font-weight:bold;
+}
+section.cast div:last-child {
+	font-weight:none;
+	font-style:italic;
+	;
+}
+section.seasons li:last-child:after {
+	content:"*";
+}
+section.seasons ul:last-child:after {
+	content:"* In production";
+	display: block; 
+	font-size:.7rem;
+	color:#999;
+}
