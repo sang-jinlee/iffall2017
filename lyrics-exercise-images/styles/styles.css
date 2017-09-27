@@ -1,0 +1,11 @@
+body{font-family:"Rasa",serif;
+text-align:center;}
+h1{font-family:"Shrikhand",cursive;
+color:white;}
+span.inner {color:silver;}
+span.outer {font-weight:bold;}
+p.artist{font-family:"rasa",serif;
+	line-height: 1px;}
+h1{
+	background-image: url('https://media.npr.org/assets/img/2017/08/16/radiatorhospital_wide-265518577a17347f6d761647019209038829afc7.jpg?s=1400');
+	background-size: 20 rem;
