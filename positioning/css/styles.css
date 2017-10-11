@@ -1,0 +1,33 @@
+aside#first {
+	float:right;
+}
+aside#second {
+	position:relative;
+	left:570px;
+	top:250px;
+	display:block;
+}
+aside#third {
+	top:30px;
+	right:100px;
+	background-color:green;
+	position:fixed;
+}
+
+aside#fourth  {
+	background-color:red;
+	position:relative;
+	top:470px;
+ 	left:300px;
+ 	z-index:2;
+}
+
+aside#fifth {
+	background-color:black;
+	position:relative;
+	top:270px;
+	left:310px;
+	z-index:1;
+
+}
+
