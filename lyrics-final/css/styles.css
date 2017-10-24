@@ -1,0 +1,103 @@
+body{
+	background-color: #f5f1e9;
+}
+h1{
+	margin:0;
+	margin-top:59px;
+	margin-left:80px;
+	padding:0;
+	padding-bottom:30px;
+	font-size:43px;
+	font-family: 'Shrikhand', cursive;
+}
+
+h4{
+	margin:0;
+	padding:0;
+	padding-left:286px;
+	padding-bottom:15px;
+	font-family: 'karmina', serif
+}
+
+p{
+	margin-right:0;
+	margin-top:0;
+	margin-left:0;
+	margin-bottom:0;
+	width:30%;
+	padding-left:293px;
+	font-size:11px;
+	font-family: 'karmina', serif
+}
+
+img{
+	width:365px;
+
+
+}
+
+div#gray{
+		position:absolute;
+		left:730px;
+		top:75px;
+		z-index:3;
+}
+
+div#gray:hover {
+	z-index:1;
+}
+
+div#yellow{
+		position:absolute;
+		left:745px;
+		top:90px;
+		z-index:2;
+}
+
+div#yellow:hover{
+	z-index:4;
+}
+
+div#gray2{
+		position:absolute;
+		left:730px;
+		top:320px;
+		z-index:3;
+}
+
+div#gray2:hover{
+	z-index:1;
+}
+
+div#red{
+		position:absolute;
+		left:745px;
+		top:335px;
+		z-index:2;
+}
+
+div#red:hover{
+	z-index:4;
+}
+
+div#gray3{
+		position:absolute;
+		left:730px;
+		top:565px;
+		z-index:3;
+}
+
+div#gray3:hover{
+	z-index:1;
+}
+
+div#blue{
+		position:absolute;
+		left:745px;
+		top:580px;
+		z-index:2;
+}
+
+div#blue:hover{
+	z-index:4;
+}
